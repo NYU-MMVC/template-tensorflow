@@ -1,6 +1,6 @@
 ## MMVC LAB Project Templete
 
-This project is a training templete based on TensorFlow and Slim. It is designed for rapid model development and iteration by providing flexible infrence and all popular based network and pretrained model. Currently, maintained by:   **Daitao Xing** (dx383@nyu.edu), **Mengwei Ren**(mengw@nyu.edu) and **Liang Niu**(liang.niu@nyu.edu) from MMVC Lab, NYU/NYU Abudhabi.
+This project is a training templete based on TensorFlow and Slim. It is designed for rapid model development and iteration by providing flexible infrence and all popular based network and pretrained model. Currently, maintained by:   **Daitao Xing** (dx383@nyu.edu), **Mengwei Ren**(mengw@nyu.edu) and **Liang Niu**(liang.niu@nyu.edu) from MMVC Lab, NYU/NYU Abu Dhabi.
 
 ### Features
 
